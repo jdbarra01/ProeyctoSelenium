@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.prueba" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-11T18:49:59" hostname="09hw005644" time="22.986">
+  <properties/>
+  <testcase name="singUp" classname="test.prueba" time="22.986"/>
+  <system-out><![CDATA[Buscamos el objeto:[[ChromeDriver: chrome on XP (07dd555bb7809e27680f356ff71aa643)] -> xpath: /html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/b/select], esperamos5segundos, hasta que aparezca.
+Se encontro objeto:[[ChromeDriver: chrome on XP (07dd555bb7809e27680f356ff71aa643)] -> xpath: /html/body/div/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/b/select], se retorna true.
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 73.0.3683.68 (47787ec04b6e38e22703e856e101e840b65afe72) on port 11906
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+[1570819804.236][WARNING]: Timed out connecting to Chrome, retrying...
+oct 11, 2019 3:50:06 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: OSS
+]]></system-err>
+</testsuite>
